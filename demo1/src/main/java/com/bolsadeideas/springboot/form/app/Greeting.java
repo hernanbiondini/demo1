@@ -1,6 +1,6 @@
 package com.bolsadeideas.springboot.form.app;
 
-// Autor: Hernán
+// Autor: Hernán Biondini
 public class Greeting {
 	
 private Long id;
